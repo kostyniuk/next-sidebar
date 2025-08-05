@@ -24,9 +24,6 @@ export default function Home() {
             <div className="mx-auto max-w-6xl">
               <div className="mb-8">
                 <h1 className="text-3xl font-bold text-gray-900 mb-2">Dashboard</h1>
-                <p className="text-gray-600">
-                  Welcome back! Here's what's happening with your projects today.
-                </p>
               </div>
               
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
